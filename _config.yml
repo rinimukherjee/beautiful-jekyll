@@ -23,7 +23,8 @@ description: Webpage
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "index#Education"
+  Education: "index#Education"
+  Experience: "index#Experience"
   #Resources:
   #-Education: "Education"
   #-Experience: "Experience"
