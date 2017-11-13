@@ -9,7 +9,32 @@ Hi, this is Rini. :)
 Education
 ----------
 
+blah
+blah
+blah
+blah
+blah
+blah
+blah
+blah
+blah
+blah
+
+
+
 Experience
 ----------
+
+blah
+blah
+blah
+blah
+blah
+blah
+blah
+blah
+blah
+blah
+
 
 
