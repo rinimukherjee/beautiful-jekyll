@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Abou Me
+title: 
 use-site-title: false
 ---
 
