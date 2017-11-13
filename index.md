@@ -5,7 +5,10 @@ use-site-title: false
 ---
 <center>
 <figure>
-  <img src="img/rini-pic.JPG"  width="200" height="300">
+  <img src="img/rini-pic.JPG"  width="200" height="300" left: -100%;
+    right: -100%;
+    top: -100%;
+    bottom: -100%;>
 </figure>
 </center>
 <br/>
