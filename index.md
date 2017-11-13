@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My website
+title: 
 use-site-title: false
 ---
 
