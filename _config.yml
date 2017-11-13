@@ -30,7 +30,7 @@ navbar-links:
   #-Experience: "Experience"
  # -Competencies: "Competencies"
   #-Skills: "Skills"
-  Author's home: "https://rinimukherjee.github.io/"
+  Home: "https://rinimukherjee.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -64,7 +64,7 @@ author:
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
+  linkedin: https://www.linkedin.com/in/rini-mukherjee-6632b961  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
