@@ -6,7 +6,7 @@ use-site-title: false
 
 Hi, this is Rini. :)
 
-<a name="education">Education</a>
+<a name="Education">Education</a>
 ----------
 
 blah
