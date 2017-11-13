@@ -3,6 +3,14 @@ layout: page
 title: 
 use-site-title: false
 ---
+<br/>
+<center>
+<figure>
+  <img src="img/profile-pic.jpg"  width="190" height="260">
+</figure>
+</center>
+<br/>
+
 
 Hi, this is Rini. :)
 
