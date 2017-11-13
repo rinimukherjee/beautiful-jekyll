@@ -8,6 +8,7 @@ use-site-title: false
   <img src="img/rini-pic.JPG"  width="200" height="300">
 </figure>
 </center>
+
 <a name="Education">Education</a>
 ----------
 
