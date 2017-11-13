@@ -6,7 +6,7 @@ use-site-title: false
 
 Hi, this is Rini. :)
 
-[create an anchor](#education)
+[Education](#education)
 ----------
 
 blah
@@ -32,7 +32,7 @@ blabel is a software package for labelling blank nodes in RDF graphs in a canoni
 The new version of blabel (2016) also includes methods for leaning an RDF graph. This may be useful if you wish to remove some redundancy from the RDF graph before you label the blank nodes, thus going further than isomorphism, preserving the (simple) equivalence of RDF graphs: graphs that are not only structurally the same (isomorphism) but also say the same thing (equivalence) in terms of simple semantics.
 
 
-[create an anchor](#Experience)
+[Experience](#Experience)
 ----------
 
 blah
