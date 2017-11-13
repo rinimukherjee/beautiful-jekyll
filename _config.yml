@@ -25,7 +25,7 @@ description: Webpage
 navbar-links:
   Education: "index#Education"
   Experience: "index#Experience"
-  #Resources:
+  Hobbies: "hobbies"
   #-Education: "Education"
   #-Experience: "Experience"
  # -Competencies: "Competencies"
