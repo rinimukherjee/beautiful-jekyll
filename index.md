@@ -5,7 +5,7 @@ use-site-title: false
 ---
 <center>
 <figure>
-  <img src="img/rini-pic.JPG"  width="210" height="270">
+  <img src="img/rini-pic.JPG"  width="200" height="300">
 </figure>
 </center>
 <br/>
