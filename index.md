@@ -22,15 +22,14 @@ use-site-title: false
 
 <a name="Experience">Experience</a>
 ----------
-|Organization|Role|
-|------------|----|
+|Organization| Role|
+|------------|------------------|
 |Technicolor  Home  Entertainment  Services, Camarillo,  USA | Sr.  Strategic Data Analyst|
 |ForwardLeap  Marketing, Irvine, USA | Analyst|
 |MarkMonitor,  Thomson  Reuters, Burbank, USA | Data Science Intern|
 |Hongkong  Shanghai  Banking  Corporation| Business Analyst|
 |AbsolutData, Gurgaon, India| Business Analyst|
 |Ernst &  Young, Kolkata, India| Intern|
-
 
 
 
