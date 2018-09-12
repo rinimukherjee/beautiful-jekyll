@@ -12,16 +12,11 @@ use-site-title: false
 <a name="Education">Education</a>
 ----------
 
-blah
-blah
-blah
-blah
-blah
-blah
-blah
-blah
-blah
-blah
+|Institute| Degree| Year|
+|---------|-------|-----|
+|USC MARSHALL| MAster's in Business Analytics| 2017|
+|Mardras School of Economics| M.Sc in Acturial Economics| 2013|
+
 
 
 <a name="Experience">Experience</a>
