@@ -14,8 +14,9 @@ use-site-title: false
 
 |Institute| Degree| Year|
 |---------|-------|-----|
-|USC MARSHALL| MAster's in Business Analytics| 2017|
-|Mardras School of Economics| M.Sc in Acturial Economics| 2013|
+|USC Marshall  School  of  Business| Master's in Business Analytics| 2017|
+|Madras  School  of  Economics,  Chennai,  India| M.Sc in Acturial Economics| 2013|
+|Presidency  College,  Kolkata,  India| B.Sc in Economics (Hons)|2011|
 
 
 
