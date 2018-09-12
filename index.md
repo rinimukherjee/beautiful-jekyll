@@ -14,7 +14,7 @@ use-site-title: false
 
 |Institute| Degree| Year|
 |---------|-------|-----|
-|USC Marshall  School  of  Business| Master's in Business Analytics| 2017|
+|USC Marshall  School  of  Business, Los Angeles, USA| Master's in Business Analytics| 2017|
 |Madras  School  of  Economics,  Chennai,  India| M.Sc in Acturial Economics| 2013|
 |Presidency  College,  Kolkata,  India| B.Sc in Economics (Hons)|2011|
 
@@ -22,17 +22,15 @@ use-site-title: false
 
 <a name="Experience">Experience</a>
 ----------
+|Organization|Role|
+|------------|----|
+|Technicolor  Home  Entertainment  Services, Camarillo,  USA | Sr.  Strategic Data Analyst|
+|ForwardLeap  Marketing, Irvine, USA | Analyst|
+|MarkMonitor,  Thomson  Reuters, Burbank, USA | Data Science Intern|
+|Hongkong  Shanghai  Banking  Corporation| Business Analyst|
+|AbsolutData, Gurgaon, India| Business Analyst|
+|Ernst &  Young, Kolkata, India| Intern|
 
-blah
-blah
-blah
-blah
-blah
-blah
-blah
-blah
-blah
-blah
 
 
 
