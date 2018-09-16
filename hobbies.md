@@ -10,8 +10,18 @@ I have extensive training in Indian classical dance, painting and singing. I gre
 
 We danced in the official music video of the song "Bahon Mein Aa Zara" by Madhumita Chatterjee & Kumar Sanu. This song is from music album Tum Bin: The Musical Experience. Parts of the song was shot in the Sepulveda dam. 
 
-<a href="https://www.youtube.com/watch?v=bDBjPZix4eE">Youtube Link to the Video</a>
+<a href="https://www.youtube.com/watch?v=bDBjPZix4eE"><b>Youtube Link of the Video</b></a>
 
 
+### July, 2017. North American Bengali Conference (NABC), San Jose, CA
+
+The North American Bengali Conference (NABC) is an annual Bengali culture conference held in the United States and Canada. Our Southern California group was a part of the openning ceremony. Here are the videos of our performances. 
 
 
+### Feb, 2017. Torrence, CA
+
+
+### Oct, 2017.
+
+
+### Nov, 2017. 
