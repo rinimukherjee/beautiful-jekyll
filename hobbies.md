@@ -24,7 +24,7 @@ I performed a few Indian classical music vocals for Saraswati puja at Dakshini B
 
 Diwali is one of the most celebrated and festive events on USC campus. AIS USC hosts an annual cultural program in the Bovard Auditorium which is attended by USC students, faculty, alumni as well as members from the Indian diaspora. 
 
-<a href="https://www.youtube.com/watch?v=bDBjPZix4eE"><b>Click here for youtube Link of the Video</b></a>
+<a href="https://youtu.be/Y2kzaL4mLCw"><b>Click here for youtube Link of the Video</b></a>
 
 ### &#x25A3; Nov, 2017. Performed at USC TCC Ballroom.
 
