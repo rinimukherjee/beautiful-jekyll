@@ -8,7 +8,7 @@ use-site-title: false
 <table style="width:100%">
    <tr>
     <th><img src="img/profile-2.JPG"  width="100%"></th>
-    <th><img src="img/rini-pic.JPG"  width="100%"></th> 
+    <th><img src="img/profile-1.JPG"  width="100%"></th> 
     <th><img src="img/profile-3.JPG"  width="100%"></th>
   </tr>
   </table>
