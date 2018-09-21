@@ -7,9 +7,9 @@ use-site-title: false
 <center>
 <table style="width:100%">
    <tr>
-    <th><img src="img/profile-2.JPG"  width="200" height="300"></th>
+    <th><img src="img/profile-2.JPG"  width="400" height="150"></th>
     <th><img src="img/rini-pic.JPG"  width="200" height="300"></th> 
-    <th><img src="img/profile-3.JPG"  width="200" height="300"></th>
+    <th><img src="img/profile-3.JPG"  width="400" height="150"></th>
   </tr>
   </table>
 </center>
