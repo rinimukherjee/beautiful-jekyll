@@ -7,6 +7,12 @@ use-site-title: false
 <figure>
   <img src="img/rini-pic.JPG"  width="200" height="300">
 </figure>
+  <figure>
+  <img src="img/profile-2.JPG"  width="200" height="300">
+</figure>
+  <figure>
+  <img src="img/profile-3.JPG"  width="200" height="300">
+</figure>
 </center>
 
 <a name="Education">Education</a>
