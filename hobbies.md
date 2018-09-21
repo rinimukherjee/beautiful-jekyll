@@ -4,7 +4,14 @@ title: Hobbies
 subtitle: 
 ---
 
+<center>
+<figure>
+  <img src="img/dance-1.jpg"  width="200" height="350">
+</figure>
+</center>
+
 I have extensive training in Indian classical dance, painting and singing. I greatly enjoy hosting events and have mc-ed a lot of events and seminars. Below are the links to some of my performances.
+
 
 ### &#x25A3; December, 2017. Official Music Video of Tum Bin: The Musical Experience
 
