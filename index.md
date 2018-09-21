@@ -5,7 +5,13 @@ use-site-title: false
 ---
 
 <center>
-<img src="img/rini-pic.JPG"  width="200" height="300"><img src="img/profile-2.JPG"  width="200" height="300"><img src="img/profile-3.JPG"  width="200" height="300">
+<table style="width:100%">
+   <tr>
+    <th><img src="img/profile-2.JPG"  width="200" height="300"></th>
+    <th><img src="img/rini-pic.JPG"  width="200" height="300"></th> 
+    <th><img src="img/profile-3.JPG"  width="200" height="300"></th>
+  </tr>
+  </table>
 </center>
   
 <a name="Education">Education</a>
