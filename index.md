@@ -5,7 +5,7 @@ use-site-title: false
 ---
 
 
-|<img src="img/rini-pic.JPG"  width="200" height="300">|<img src="img/profile-2.JPG"  width="200" height="300">|<img src="img/profile-3.JPG"  width="200" height="300">|
+<img src="img/rini-pic.JPG"  width="200" height="300"><img src="img/profile-2.JPG"  width="200" height="300"><img src="img/profile-3.JPG"  width="200" height="300">
 
 <a name="Education">Education</a>
 ----------
