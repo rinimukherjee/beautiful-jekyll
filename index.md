@@ -6,7 +6,7 @@ use-site-title: false
 
 <center>
 <img src="img/rini-pic.JPG"  width="200" height="300"><img src="img/profile-2.JPG"  width="200" height="300"><img src="img/profile-3.JPG"  width="200" height="300">
-<\center>
+</center>
   
 <a name="Education">Education</a>
 ----------
