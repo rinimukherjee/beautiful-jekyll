@@ -6,7 +6,7 @@ subtitle:
 
 <center>
 <figure>
-  <img src="img/dance-1.jpg"  width="200" >
+  <img src="img/dance-1.jpg"  height="70" width="200" >
 </figure>
 </center>
 
