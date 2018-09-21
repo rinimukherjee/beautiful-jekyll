@@ -14,7 +14,7 @@ use-site-title: false
   </table>
 </center>
 
-I am a data enthusiast and I love to tell stories with data! I like to approach data with statistical modeling, data mining and machine learning techniques to come up with solutions to business problems.
+I am a data enthusiast and I love to tell stories with data! I use statistical modeling, data mining and machine learning techniques to provide elegant solutions to modern business problems.
 
 <a name="Education">Education</a>
 ----------
